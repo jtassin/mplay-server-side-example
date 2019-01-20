@@ -1,0 +1,39 @@
+{
+  "name": "mplay-server-side-example",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^3.9.0",
+    "apollo-cache-inmemory": "^1.4.2",
+    "apollo-client": "^2.4.12",
+    "apollo-link-context": "^1.0.12",
+    "apollo-link-error": "^1.1.5",
+    "apollo-link-http": "^1.5.9",
+    "graphql": "^14.1.1",
+    "react": "^16.7.0",
+    "react-apollo": "^2.3.3",
+    "react-cookie": "^3.0.8",
+    "react-dom": "^16.7.0",
+    "react-redux": "^6.0.0",
+    "redux": "^4.0.1",
+    "universal-cookie": "^3.0.7"
+  },
+  "devDependencies": {
+    "react-scripts": "2.1.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
